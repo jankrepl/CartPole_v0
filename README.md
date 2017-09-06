@@ -2,11 +2,11 @@
 5 different techniques are used to solved the control problem of balancing a pole on a cart. Environment is taken from OpenAI gym
 CartPole_v0.
 
-* **Random Search** (Generic optimization)
-* **Hill Climbing** (Generic optimization)
-* **Q-learning** (Reinforcement learning)
-* **Sarsa** (Reinforcement learning)
-* **Monte Carlo** (Reinforcement learning)
+* **Random Search** (Actor only)
+* **Hill Climbing** (Actor only)
+* **Q-learning** (Critic only)
+* **Sarsa** (Critic only)
+* **Monte Carlo** (Critic only)
 
 
 ## Code
